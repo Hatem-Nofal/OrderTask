@@ -1,0 +1,56 @@
+C:\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.deps.json
+C:\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.json
+C:\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.dev.json
+C:\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.dll
+C:\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.csprojAssemblyReference.cache
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.csproj.CoreCompileInputs.cache
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cache
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cs
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfoInputs.cache
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfo.cs
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorTargetAssemblyInfo.cache
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.dll
+C:\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.deps.json
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.json
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.dev.json
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.dll
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.csprojAssemblyReference.cache
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.csproj.CoreCompileInputs.cache
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cache
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cs
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfoInputs.cache
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfo.cs
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorTargetAssemblyInfo.cache
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.dll
+C:\Users\Hatem\Desktop\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.deps.json
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.json
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.dev.json
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.dll
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.csprojAssemblyReference.cache
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.csproj.CoreCompileInputs.cache
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cache
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cs
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfoInputs.cache
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfo.cs
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorTargetAssemblyInfo.cache
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.dll
+C:\Users\Hatem Nofal\Desktop\Task\Task\Task\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Work\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.deps.json
+C:\Work\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.json
+C:\Work\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.runtimeconfig.dev.json
+C:\Work\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.dll
+C:\Work\Task\Oreders.API\bin\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.csproj.CoreCompileInputs.cache
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cache
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorAssemblyInfo.cs
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfoInputs.cache
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.AssemblyInfo.cs
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.RazorTargetAssemblyInfo.cache
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.dll
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.pdb
+C:\Work\Task\Oreders.API\obj\Debug\netcoreapp2.1\Orders.API.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+
+<div class="container mt-5">
+  <table border=1 class="table table-striped">
+    <tr>
+      <th>customer</th>
+      <th>item</th>
+      <th>unit</th>
+      <th>Total Amount</th>
+      <th>amount</th>
+      <th>date</th>
+<th></th>
+    </tr>
+      <tr *ngFor="let d of data " [attr.id]="d.orderId"> <!--each row id == id-->
+          <td>{{ d.customer }}</td>
+          <td>{{ d.item }}</td>
+          <td>{{ d.unit }}</td>
+          <td>{{ d.totalAmount }}</td>
+          <td>{{ d.amount }}</td>
+          <td>{{ d.date }}</td>
+          <button id="remove" (click)="deleteRow(d.orderId)">DELETE ROW</button>
+      </tr>
+  </table> 
+</div>

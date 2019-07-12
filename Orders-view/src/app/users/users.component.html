@@ -1,0 +1,17 @@
+
+<div class="container mt-5">
+  <table border=1 class="table table-striped">
+    <tr>
+      <th>customer</th>
+      <th>Role</th>
+     
+<th></th>
+    </tr>
+      <tr *ngFor="let d of data " [attr.id]="d.id"> <!--each row id == id-->
+          <td>{{ d.userName }}</td>
+          <td>{{ d.role }}</td>
+        
+          <button id="remove" (click)="deleteUser(d.id)">DELETE ROW</button>
+      </tr>
+  </table> 
+</div>

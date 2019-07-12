@@ -1,0 +1,38 @@
+<form #addForm="ngForm" (ngSubmit)="addordertolist()">
+  <h2 class="text-center text-primary">Add Order</h2>
+
+  <div  class="form-group">
+    <select name="itemselector" required [(ngModel)]="selectedoption" (ngModelChange)="changeitem($event)" class="form-control">
+      <option >Select Item</option>
+      <option *ngFor="let opitem of items"  [value]="selectedoption">{{opitem.itemName}}</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <input type="text" required  class="form-control" required name="amount" [(ngModel)]="model.Amount"
+      placeholder="Amount">
+  </div>
+
+  <div class="form-group text-center">
+    <button [disabled]="!addForm.valid" class="btn btn-success" type="submit">Add</button>
+    <button class="btn btn-default" (click)="cancel()" type="button">Cancel</button>
+  </div>
+
+</form>
+<div class="container mt-5">
+  <table border=1 class="table table-striped">
+    <tr>
+      <th>item</th>
+      <th>Amount</th>
+<th>id</th>
+    </tr>
+      <tr *ngFor="let d of orderitemlist " > <!--each row id == id-->
+          <td>{{ d.itemsname }}</td>
+          <td>{{ d.amount }}</td>
+          <td>{{d.itemid}}</td>
+          <!-- <button id="remove" (click)="deleteRow(d.orderId)">DELETE ROW</button> -->
+      </tr>
+  </table> 
+  <div class="form-group text-center">
+    <button class="btn btn-success" type="button" (click)="addOrder()">save</button>
+  </div>
+</div>
